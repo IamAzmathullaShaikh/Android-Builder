@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "SamsungA12s",
-      "repo": "https://github.com/dmpstr/android_kernel_samsung_a127x.git",
+      "name": "SamsungA12sBYrissu",
+      "repo": "https://github.com/IamAzmathullaShaikh/android_kernel_samsung_a12s.git",
       "branch": "android-4.19-stable",
-      "device": "a12s",
-      "defconfig": "exynos850-a12snsxx_defconfig"
+      "device": "rsuntk_v4.19.150",
+      "defconfig": "rsuntk_defconfig"
     },
     "toolchains": [
       {
