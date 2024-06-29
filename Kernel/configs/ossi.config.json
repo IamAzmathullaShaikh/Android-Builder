@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "SamsungA12sNacho",
-      "repo": "https://github.com/TDD788/Kernel.git",
-      "branch": "main",
-      "device": "a12s",
-      "defconfig": "darks_defconfig"
+      "name": "OnePlusNordN30",
+      "repo": "https://github.com/IamAzmathullaShaikh/android_kernel_oneplus_sm6375.git",
+      "branch": "lineage-21",
+      "device": "ossi",
+      "defconfig": "holi-qgki_defconfig"
     },
     "toolchains": [
       {
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": false,
-    "enableLXC": false
+    "enableKernelSU": true,
+    "enableLXC": true
   }
 ]
