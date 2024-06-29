@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "OnePlusNordN30",
-      "repo": "https://github.com/IamAzmathullaShaikh/android_kernel_oneplus_sm6375.git",
-      "branch": "lineage-21",
-      "device": "ossi",
-      "defconfig": "holi-qgki_defconfig"
+      "name": "SamsungA12s",
+      "repo": "https://github.com/dmpstr/android_kernel_samsung_a127x.git",
+      "branch": "android-4.19-stable",
+      "device": "a12s",
+      "defconfig": "exynos850-a12snsxx_defconfig"
     },
     "toolchains": [
       {
