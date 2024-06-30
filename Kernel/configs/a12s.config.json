@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "SamsungA12sNacho",
-      "repo": "https://github.com/TDD788/Kernel.git",
+      "repo": "https://github.com/IamAzmathullaShaikh/kernel_m236b.git",
       "branch": "main",
-      "device": "a12s",
-      "defconfig": "darks_defconfig"
+      "device": "m23",
+      "defconfig": "vendor/physwizz__defconfig"
     },
     "toolchains": [
       {
