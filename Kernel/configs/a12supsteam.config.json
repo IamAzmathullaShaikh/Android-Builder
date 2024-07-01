@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "SamsungA12sNacho",
-      "repo": "https://github.com/IamAzmathullaShaikh/Kernel.git",
-      "branch": "Test",
+      "repo": "https://github.com/theshoqanebi/android_samsung_a12_kernel.git",
+      "branch": "main",
       "device": "a12s",
       "defconfig": "darks_defconfig"
     },
