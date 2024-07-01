@@ -5,7 +5,7 @@
       "repo": "https://github.com/theshoqanebi/android_samsung_a12_kernel.git",
       "branch": "main",
       "device": "a12s",
-      "defconfig": "darks_defconfig"
+      "defconfig": "exynos850-a12snsxx_defconfig"
     },
     "toolchains": [
       {
